@@ -28,4 +28,4 @@ Below are privacy policies for Hifdzi applications
 Reach us on:
 
 1. [instagram.com/hifdzi.dev](https://instagram.com/hifdzi.dev)
-2. [cs.hifdzi@gmail.com](mailto://cs.hifdzi@gmail.com)
+2. [cs.hifdzi@gmail.com](mailto:cs.hifdzi@gmail.com)
