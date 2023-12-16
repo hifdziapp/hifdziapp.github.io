@@ -21,6 +21,6 @@ Expect more apps from us, and remember us in your best prayers. Blessings 😉
 
 ---
 
-Aplikasi ini dibuat oleh **HIFDZI**
+This app is developed by **HIFDZI**
 
 **Dhikir Pagi dan Sore © 2023 - Hifdzi**
