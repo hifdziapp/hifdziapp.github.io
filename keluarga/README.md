@@ -17,4 +17,6 @@ Look forward for more updates from us, and remember us always in your best praye
 
 Family & Genealogy © 2023, @HifdziApps
 
+[Release History](../keluarga/release_history_en.md)  
+[Release Notes](../keluarga/release_notes_en.md)  
 [Privacy Policy](../keluarga/privacy_policy.md)
