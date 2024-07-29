@@ -1,20 +1,28 @@
-# Hifdzi
+# Tentang Pengembang
 
-Hifdzi Al-Quran Hafalan dikembangkan oleh **Hifdzi**
+### Hifdzi
 
-## Pengembang
+Hifdzi Al-Quran Hafalan adalah milik **Hifdzi** dan sedang aktif dikembangkan.
 
-1. ginn_nn
+**Dikembangkan Oleh:** HIFDZI
 
-## Penerjemah
+**Penerjemah:** 
+- Bahasa Indonesia: ginn_nn
+- Bahasa Inggris: ginn_nn
+- Bahasa Arab: ginn_nn
 
-1. ginn_nn
+**Kontak:**
+- Email: [cs.hifdzi@gmail.com](mailto:cs.hifdzi@gmail.com)
+- Instagram: [instagram.com/hifdzi.dev](http://instagram.com/hifdzi.dev)
+- Telegram: [t.me/hifdzi_id](https://t.me/hifdzi_id)
 
-Hubungi kami di  
-[cs.hifdzi@gmail.com](mailto:cs.hifdzi@gmail.com)
+**Kredit:**
+- Desain UI/UX: ginn_nn
+- Pengembangan Aplikasi: ginn_nn
+- Pengujian dan QA: ginn_nn
 
-Atau kirim pesan langsung di  
-[instagram.com/hifdzi.dev](http://instagram.com/hifdzi.dev)
+Kami berterima kasih kepada semua pihak yang telah berkontribusi dalam pengembangan aplikasi Hifdzi Al-Quran Hafalan ini. Tanpa dukungan dan dedikasi mereka, aplikasi ini tidak akan mungkin terwujud.
 
-Copyright © **Hifdzi**, 2023 Hak Cipta Dilindungi Undang-Undang.
+Untuk pertanyaan, saran, atau dukungan, silakan hubungi kami melalui email atau telepon yang tercantum di atas. Kami sangat menghargai umpan balik Anda untuk membuat aplikasi ini lebih baik.
 
+Copyright © **Hifdzi**, 2024 Hak Cipta Dilindungi Undang-Undang.
